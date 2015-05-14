@@ -3,7 +3,7 @@ Configurações e pacotes do sublime
 Antes de executar os comandos, certifique-se de ter o
 <a
 	href="https://packagecontrol.io/installation"
-	title="Package Control
+	title="Package Control"
 	alt="Package Control">Package Control</a>
 
 <pre>
