@@ -1,7 +1,9 @@
 {
 	"color_scheme": "Packages/Material Color Scheme/sublime/material-dark.tmTheme",
-	// "font_face": "Inconsolata",
-	"font_options": ["bold"],
+	"font_options":
+	[
+		"bold"
+	],
 	"font_size": 13,
 	"ignored_packages":
 	[
