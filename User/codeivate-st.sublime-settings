@@ -1,0 +1,11 @@
+{
+	"dialog": false,
+	"growl_active": true,
+	"machine_name": "Elvis Henrique Pereira",
+	"notify_send_active": true,
+	"notify_send_path": "/usr/bin/notify-send",
+	"pushover_active": false,
+	"pushover_user_id": "",
+	"user_id": "fd1b14aa6e2c0cb431faef3c35f58109d6deab2b",
+	"user_token": "7849a4f60192354d3c729e0caf146dd8c3918e80"
+}
