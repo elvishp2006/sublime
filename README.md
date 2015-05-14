@@ -1,6 +1,6 @@
 # sublime
-Configurações e pacotes do sublime
-Antes de executar os comandos, certifique-se de ter o
+<h3>Configurações e pacotes do sublime</h3>
+Obs.: Antes de executar os comandos, certifique-se de ter o
 <a
 	href="https://packagecontrol.io/installation"
 	title="Package Control"
