@@ -7,12 +7,10 @@ Obs.: Feche o sublime antes de executar os comandos e certifique-se de ter o
 	alt="Package Control">Package Control</a>
 instalado
 
-<pre>
-  <code>
+```shell
   cd ~ &&
   git clone https://github.com/elvishp2006/sublime.git &&
   cd ~/.config/sublime-text-3/Packages/ &&
   rm -r User &&
   ln -s ~/sublime/User
-  </code>
-</pre>
+```
